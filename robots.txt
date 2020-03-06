@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Host: http://Site.RU
+
+Sitemap: http://Site.RU/sitemap.xml
